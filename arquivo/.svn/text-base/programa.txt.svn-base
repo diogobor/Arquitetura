@@ -1,0 +1,4 @@
+mov<9,r3>
+mov<6,r2>
+or<r3,r2>
+halt
